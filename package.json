@@ -1,0 +1,21 @@
+{
+  "name": "swiggy",
+  "version": "1.0.0",
+  "description": "Food delivery app",
+  "scripts": {
+    "test": "jest",
+    "start": " parcel index.html"
+  },
+  "keywords": [
+    "food"
+  ],
+  "author": "ishan lomas",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
